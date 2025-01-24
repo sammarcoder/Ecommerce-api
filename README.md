@@ -141,7 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any queries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, feel free to reach out at [samarabbas01@gmail.com](mailto:samarabbas01@gmail.com).
 ```
 
 ---
@@ -153,4 +153,4 @@ For any queries, feel free to reach out at [your-email@example.com](mailto:your-
 4. Contribution guidelines.
 5. A note on securing sensitive data like Stripe keys.
 
-آپ اسے آسانی سے کاپی اور پیسٹ کر کے `README.md` فائل میں ڈال سکتے ہیں۔ اگر مزید ہدایات یا تبدیلیاں چاہئیں تو بتائیں! 😊
+
