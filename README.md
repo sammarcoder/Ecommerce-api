@@ -141,7 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any queries, feel free to reach out at [samarabbas01@gmail.com](mailto:samarabbas01@gmail.com).
+For any queries, feel free to reach out at [isamarabbas01@gmail.com](mailto:isamarabbas01@gmail.com).
 ```
 
 ---
